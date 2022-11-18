@@ -35,3 +35,26 @@ body {
   background-color: white;
   color: #0F1014;
 }
+
+.hero {
+  min-height: 500px;
+  background-position: top center;
+  background-size: cover;
+  display: flex;
+  align-items: flex-end;
+}
+.hero-content  {
+  max-width: 70%;
+}
+.hero-title {
+  font-size: 72px;
+  margin: 0;
+}
+.button {
+  background-color: #0F1014;
+  color: white;
+  outline: none;
+  border: 1px solid white;
+  padding: 10px 15px;
+  cursor: pointer;
+}
