@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movie-trailer-app/static/css/main.bd981919.css",
+    "main.js": "/movie-trailer-app/static/js/main.8ac9e88c.js",
+    "index.html": "/movie-trailer-app/index.html",
+    "main.bd981919.css.map": "/movie-trailer-app/static/css/main.bd981919.css.map",
+    "main.8ac9e88c.js.map": "/movie-trailer-app/static/js/main.8ac9e88c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd981919.css",
+    "static/js/main.8ac9e88c.js"
+  ]
+}
